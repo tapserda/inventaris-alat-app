@@ -1,0 +1,18 @@
+.starred-thumb{
+	max-height: 500px !important;
+}
+.starred-thumb-2{
+	max-height: 250px !important;
+}
+.visitor-widget{
+
+}
+.visitor-widget > a{
+	font-size: 14px;
+	color: #000;
+	text-transform: uppercase;
+}
+.visitor-widget > a:hover{
+	font-size: 16px;
+	color: #18fff8;
+}
